@@ -1,7 +1,7 @@
 # Use-of-a-Deep-Generative-Decoder-to-infer-mRNA-differential-expression-and-thereby-miRNA-expression
 A bachelor project in collaboration with Molekylær Medicinsk Afdeling (MOMA)
 
-Through our bachelor's project (Bachelor of Data Science), we've gotten the opportunity to work with Molekylær Medicinsk Afdeling (MOMA) to improve the performance of the statistical tool biReact, by utilizing a deep generative decoder (DGD) to generate control samples. Both papers can be found as 
+Through our bachelor's project (Bachelor of Data Science), we've gotten the opportunity to work with Molekylær Medicinsk Afdeling (MOMA) to improve the performance of the statistical tool miReact, by utilizing a deep generative decoder (DGD) to generate control samples. Both papers can be found as 
 - miReact:
     Nielsen, M.M., Pedersen, J.S. miRNA activity inferred from single cell mRNA expression. Sci Rep 11, 9170 (2021). https://doi.org/10.1038/s41598-021-88480-5
     
